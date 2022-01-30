@@ -1,0 +1,14 @@
+.background {
+  height: 50%;
+}
+.albrow {
+  background-color: #923cb5;
+  background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%);
+}
+.album {
+  width: 200px;
+  height: 200px;
+}
+.border {
+  color: #3b3d3d;
+}
